@@ -107,6 +107,14 @@ main{
       2px 2px 5px #000;
 }
 
+@media screen and (max-width: 600px) {
+  .meme-text {
+    font-size: 1.5em; 
+    letter-spacing: 0.5px; 
+    text-shadow: 1px 1px 2px #000; 
+  }
+}
+
 .bottom {
   bottom: 0;
 }
