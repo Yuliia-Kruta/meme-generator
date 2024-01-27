@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Meme generator",
+  "name": "Yuliia's meme generator",
   "icons": [
     {
       "src": "favicon.ico",
