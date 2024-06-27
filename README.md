@@ -42,10 +42,9 @@ npm start
 The app will be available at http://localhost:3000.
 
 <h2>How to Use</h2>
-Open the application in your web browser.
-Click the "Get a new meme image" button to fetch a random meme image.
-Enter your custom text in the "Top text" and "Bottom text" input fields.
-Your custom meme will be displayed with the selected image and your text.
+- Click the "Get a new meme image" button to fetch a random meme image.<br/>
+- Enter your custom text in the "Top text" and "Bottom text" input fields.<br/>
+- Your custom meme will be displayed with the selected image and your text.<br/>
 
 <h2>License</h2>
 Distributed under the MIT License. See LICENSE for more information.
